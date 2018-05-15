@@ -7,12 +7,12 @@
   "related-articles": {
     "Articles": [
       {
-        "title": "Pet adoption",
+        "title": "Dog friendly cities",
         "url": "https://en.wikipedia.org/wiki/Pet_adoption",
         "image": "assets/related-dogs.jpg"
       },
       {
-        "title": "Learn about cats",
+        "title": "Most populated cat cities",
         "url": "https://en.wikipedia.org/wiki/Cat",
         "image": "assets/related-cats.jpg"
       }
